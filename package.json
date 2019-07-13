@@ -1,6 +1,9 @@
 {
   "name": "test-jquery-nodejs",
   "version": "1.0.0",
+  "dependencies": {
+    "jquery": ">=3.4.0"
+  },
   "description": "This is the test jquery plugin to test with npm",
   "main": "index.js",
   "scripts": {
