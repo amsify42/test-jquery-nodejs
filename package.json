@@ -5,7 +5,7 @@
     "jquery": ">=3.4.0"
   },
   "description": "This is the test jquery plugin to test with npm",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
