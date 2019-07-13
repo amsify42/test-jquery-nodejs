@@ -1,0 +1,19 @@
+{
+  "name": "test-jquery-nodejs",
+  "version": "1.0.0",
+  "description": "This is the test jquery plugin to test with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amsify42/test-jquery-nodejs.git"
+  },
+  "author": "Amsify42",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amsify42/test-jquery-nodejs/issues"
+  },
+  "homepage": "https://github.com/amsify42/test-jquery-nodejs#readme"
+}
